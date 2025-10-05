@@ -1,4 +1,4 @@
-Challenge 1: Shannon SoundScape — AI Listening for Biodiversity Health
+**Challenge 1: Shannon SoundScape — AI Listening for Biodiversity Health**
 
 
 Pitch Title: “Shannon SoundScape: Listening to Life”
@@ -56,7 +56,7 @@ Tools: TensorFlow/PyTorch, Librosa for audio analysis, and web dashboards for vi
 
 
 
-Challenge 2: Ghosts of the Shannon — Revealing Hidden Heritage Beneath the River
+**Challenge 2: Ghosts of the Shannon — Revealing Hidden Heritage Beneath the River**
 
 Pitch Title: “Shannon’s Hidden Heritage: AI Meets Archaeology”
 Overview:
